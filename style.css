@@ -13,20 +13,21 @@
     height: 560px;
     background-color: gray;
     box-shadow: 0 0 1PX black;
+    border-radius: 15px;
 }
 
 #display{
     text-align: right;
     font-size: 80px;
-    margin: 20px;
-    width: 440px;
+    margin: 10px;
+    width: 320px;
     height: 100px;
     background-color: rgb(170, 255, 73);
 }
 
 #clear {
     text-align: center;
-    margin: 20px;
+    margin-bottom: 15px;
     width: 320px;
     height: 50px;
     background-color: rgb(255, 77, 33);
